@@ -16,6 +16,7 @@ Plug 'jparise/vim-graphql'
 
 Plug 'christoomey/vim-tmux-navigator'
 Plug 'tpope/vim-surround'
+Plug 'townk/vim-autoclose'
 
 call plug#end()
 
